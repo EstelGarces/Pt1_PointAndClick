@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4b6540a0737ce1d48a5a4e1c3006b2ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - fondo: {instanceID: 0}
+  - noche: {instanceID: 0}
+  - medianoche: {instanceID: 0}
+  - dia: {instanceID: 0}
+  - "ma\xF1ana": {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
